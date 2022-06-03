@@ -1,0 +1,19 @@
+{
+  "name": "stubbing-http-requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Or Hasson",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "tape": "^5.5.3"
+  },
+  "devDependencies": {
+    "sinon": "^14.0.0"
+  }
+}
